@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on front-end development and a little bit of backend
+- 🌱 I’m currently learning React JS and some NodeJS as well.
 
  <div>
   <a href="https://github.com/pedrodruviaro">
