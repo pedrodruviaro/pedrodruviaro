@@ -1,6 +1,7 @@
 ### Hi there 👋
+- 👨‍🦱 My name is Pedro. I'm a developer from Brazil
 
-- 🔭 I’m currently working on web development in general, focusing on React and Node JS.
+- 🔭 Currently I'm working on web development In general, focusing on React and Node JS.
 
  <div>
   <a href="https://github.com/pedrodruviaro">
