@@ -1,8 +1,3 @@
-### Hi there 👋
-- 👨‍🦱 My name is Pedro. I'm a developer from Brazil
-
-- 🔭 Currently I'm working on web development In general, focusing on React and Node JS.
-
  <div>
   <a href="https://github.com/pedrodruviaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodruviaro&layout=compact&langs_count=7&theme=onedark"/>
