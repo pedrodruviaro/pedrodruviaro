@@ -1,4 +1,6 @@
-  ##
+Desenvolvedor front-end apaixonado por tecnologia e aprendizado contínuo, com foco no desenvolvimento front-end e estudo constante em back-end. Tenho experiência em HTML, CSS, JavaScript, Vue e Nuxt, e estou buscando abranger todo o ecossistema JavaScript e TypeScript. Atualmente, estudo também tecnologias de back-end, como Node.js e Fastify.
+
+Iniciei minha jornada em 2021, migrando da área de Química, e desde então tenho me aprofundado cada vez mais no universo da tecnologia. Gosto de estudar, ensinar e aprender coisas novas. Apesar de atuar integralmente com front-end, atualmente estudo Python e Go nas horas vagas. Em 2024, fundei a wire junto com uma amiga, onde oferecemos serviços de desenvolvimento, design e consultoria de SEO para empresas e pessoas físicas.
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Vanilla JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
