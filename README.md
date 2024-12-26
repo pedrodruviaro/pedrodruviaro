@@ -1,6 +1,6 @@
-Desenvolvedor front-end apaixonado por tecnologia e aprendizado contínuo, com foco no desenvolvimento front-end e estudo constante em back-end. Tenho experiência em HTML, CSS, JavaScript/TypeScript, Vue e Nuxt. Atualmente, estudo também tecnologias de back-end, como Node.js e PHP (Laravel).
+Desenvolvedor web com mais de três anos de experiência focado em front-end, especialmente na stack Vue, Nuxt e TypeScript. Atualmente, também trabalho com PHP e Laravel, expandindo minhas habilidades para o back-end e projetos fullstack.
 
-Iniciei minha jornada em 2021, migrando da área de Química, e desde então tenho me aprofundado cada vez mais no universo da tecnologia. Gosto de estudar, ensinar e aprender coisas novas. Apesar de atuar integralmente com front-end, atualmente estudo Python e Go nas horas vagas. Em 2024, fundei a wire junto com uma amiga, onde oferecemos serviços de desenvolvimento, design e consultoria de SEO para empresas e pessoas físicas.
+Iniciei minha jornada em 2021, migrando da área de Química, e desde então tenho me aprofundado cada vez mais no universo do desenvolvimento. Gosto de estudar, ensinar e aprender coisas novas. Em 2024, comecei o projeto wire, onde oferecemos serviços de desenvolvimento, design, e consultoria de marketing e SEO para empresas e pessoas físicas.
 
  
  ##
