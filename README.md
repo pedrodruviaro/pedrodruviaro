@@ -1,3 +1,13 @@
+<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, eu sou o Pedro</h3>
+
+💜 Crio coisas legais na [wire](https://www.wire.art.br/)
+
+📝 Gosto de escrever coisas no [meu blog](https://pedroruviaro.com.br/notes/)
+
+---
+
+## Um pouco mais sobre mim
+
 Desenvolvedor web com mais de três anos de experiência focado em front-end, especialmente na stack Vue, Nuxt e TypeScript. Atualmente, também trabalho com PHP e Laravel, expandindo minhas habilidades para o back-end e projetos fullstack.
 
 Iniciei minha jornada em 2021, migrando da área de Química, e desde então tenho me aprofundado cada vez mais no universo do desenvolvimento. Gosto de estudar, ensinar e aprender coisas novas. Em 2024, comecei o projeto wire, onde oferecemos serviços de desenvolvimento, design, e consultoria de marketing e SEO para empresas e pessoas físicas.
