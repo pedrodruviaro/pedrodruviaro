@@ -1,4 +1,4 @@
-<h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Olá, eu sou o Pedro</h3>
+<h3>Olá, eu sou o Pedro <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
 💜 Crio coisas legais na [wire](https://www.wire.art.br/)
 
