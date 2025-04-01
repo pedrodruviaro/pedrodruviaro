@@ -20,3 +20,7 @@ Iniciei minha jornada em 2021, migrando da área de Química, e desde então ten
   <a href="https://www.linkedin.com/in/pedroruviaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  </div>
+
+---
+
+![pedrodruviaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodruviaro&show_icons=true&theme=radical)
